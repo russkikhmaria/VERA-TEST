@@ -137,6 +137,10 @@ display: grid;
     display: none !important; /* скрывать, если не открыто */
   }
 
+   .submenu__title {
+    font-size: 24px;
+  }
+
 
 
   .main {

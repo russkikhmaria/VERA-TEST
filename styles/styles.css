@@ -229,7 +229,7 @@
 }
 
 .submenu-ul {
-  width: 215px;
+  max-width: 215px;
   list-style: none;
   padding: 0;
   margin: 0;
